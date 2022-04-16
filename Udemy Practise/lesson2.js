@@ -1,2 +1,2 @@
-const myName = 'Max';
+const myName = 'Max'
 console.log(myName);
